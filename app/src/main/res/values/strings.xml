@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Data binding</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Иркутск</string>
+    <string name="tab_text_2">Новосибирск</string>
+    <string name="weather_label">Погода</string>
+    <string name="temp_label">Температура:</string>
+    <string name="wind_label">Скорость ветра:</string>
+</resources>
